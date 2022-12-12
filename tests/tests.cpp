@@ -2,7 +2,7 @@
 #include <gtest/gtest.h>
 
 TEST(calculator_suit,sum_test){
-ASSERT_EQ(Plus(2,3),6);
+ASSERT_EQ(Plus(2,3),5   );
 ASSERT_EQ(Plus(10000,3),10003);
 ASSERT_EQ(Plus(-7,-3),-10);
 ASSERT_EQ(Plus(5,-3),2);
