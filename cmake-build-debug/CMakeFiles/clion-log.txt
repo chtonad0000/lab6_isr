@@ -1,0 +1,5 @@
+"C:\Program Files\JetBrains\CLion 2022.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2022.2.3/bin/ninja/win/ninja.exe" -G Ninja -S C:\projects\lab6_isr\lab6_isr -B C:\projects\lab6_isr\lab6_isr\cmake-build-debug
+-- Found Python: C:/Users/d_chu/AppData/Local/Programs/Python/Python310/python.exe (found version "3.10.2") found components: Interpreter 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/projects/lab6_isr/lab6_isr/cmake-build-debug
